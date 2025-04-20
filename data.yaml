@@ -1,0 +1,4 @@
+train: "E:/chm392 code/dataset/images/train"
+val: "E:/chm392 code/dataset/images/val"
+nc: 2
+names: ["scale_bar", "lipss_surface"]
